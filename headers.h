@@ -17,3 +17,15 @@ LISTA* criarLista(){
 	}
 	return inicio;
 }
+static FILE *pont_arq;//chama o arquivo txt
+#include"horariosempresas.h"
+#include"horariosempresaspt2.h"
+#include"horariosempresaspt3.h"
+#include"lugaraviao.h"
+#include"exibe.h"
+#include"removes.h"
+#include"insere.h"
+#include"libera.h"
+#include"edita.h"
+#include"compra.h"
+#include"expande.h"
