@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695661380 source:c:\users\dechotti\desktop\nova pasta\crud_aviaodinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1695659814 c:\users\dechotti\desktop\nova pasta\crud_aviaodinamico\headers.h
+
